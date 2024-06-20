@@ -1,4 +1,20 @@
 # Apa itu Web Dinamis dan PHP
+
+Program Pertama PHP (Localhost/WebServer)
+Cara Menghubungkan Apache dengan Text Editor(Web server)
+
+Buka XAMPP app
+Klik Start Apache in XAMPP
+Open Fila Manager
+Open tempat penyimpanan file xampp
+Buka File XAMPP
+Buka htdocs
+buat New Folder/folder baru(nama_folder)
+Buka aplikasi Text Editor kalian
+Buka nama_folder yang sdh dibuat
+Add New File PHP in text editor(File.php)S
+Done
+
 ## Web Dinamis
 Sebuah situs web dinamis adalah situs yang menggunakan teknologi seperti server-side scripting untuk memungkinkan konten berubah secara dinamis berdasarkan interaksi pengguna, data, atau parameter lainnya. Ini memungkinkan pengalaman pengguna yang lebih interaktif dan personal.
 
