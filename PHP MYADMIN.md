@@ -1,6 +1,6 @@
 
 # Struktur Pegawai
-![strukturpegawai.png](ASET%20PHPMYADMINstrukturpegawai.png)
+![strukturpegawai.png](ASET%20PHPMYADMINstrukturpegawai..png)
 
 # Data Pegawai
 ![pegawai.png](ASET%20PHPMYADMIN/pegawai.png)
