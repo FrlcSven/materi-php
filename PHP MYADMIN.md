@@ -18,7 +18,7 @@
 
 # Relasi 
 
-![RELASII.png](ASET%20PHPMYADMIN/RELASI.png)
+![RELASII.png](ASET%20PHPMYADMIN/w.png)
 
 ![nilai.png](ASET%20PHPMYADMIN/nilai.png)
 
