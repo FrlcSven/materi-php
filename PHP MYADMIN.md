@@ -18,7 +18,7 @@
 
 # Relasi 
 
-![w.png](W.png)
+![w.png](w.png)
 
 ![nilai.png](ASET%20PHPMYADMIN/nilai.png)
 
